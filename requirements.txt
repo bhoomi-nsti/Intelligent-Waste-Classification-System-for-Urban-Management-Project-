@@ -5,8 +5,8 @@ numpy==1.26.4
 opencv-python-headless==4.10.0.84
 av==11.0.0
 pandas==2.2.2
-Pillow==10.4.0
+Pillow==9.5.0
 plotly==5.24.1
-matplotlib==3.9.2
+matplotlib==3.8.4
 seaborn==0.13.2
 scikit-learn==1.5.2
